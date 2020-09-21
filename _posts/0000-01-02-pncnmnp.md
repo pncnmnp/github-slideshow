@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Peter Piper picked a peck of pickled peppers
+Use the left arrow to go back!
